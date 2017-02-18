@@ -1,11 +1,10 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Chi-Hieu blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Computer Scientist."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://chieupham.github.io"
+github_username:  chieupham
 
 # Build settings
 markdown: kramdown
