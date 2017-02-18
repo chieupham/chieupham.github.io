@@ -20,6 +20,8 @@ Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi ha
 <div class="thecap"> Giao diện Spyder trên Windows. <br></div>
 </div>
 
+WinPython đã có sẵn khá là nhiều thư viện python như : [Numpy](http://www.numpy.org/), [Scipy](https://www.scipy.org/), [Matplotlib](http://matplotlib.org/) , [sklearn](http://scikit-learn.org/stable/)
+
 ## 2. Anaconda
 
 
