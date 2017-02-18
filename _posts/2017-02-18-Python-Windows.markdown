@@ -16,7 +16,7 @@ Tôi chỉ sử dụng Ubuntu cho việc lập trình nên bài này sẽ có r�
 Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi hay sử dụng Spyder vì layout của nó khá giống với Matlab, chúng ta có thể kiểm soát được Script, Console và các biến. Console cho Python của Spyder có thể sử dụng Python hoặc IPython notebook. Cá nhân tôi thích Python Console hơn.
 
 <div class="imgcap">
-<img src ="/assets/PythonWindows/spyder.png" width = "500" align = "center">
+<img src ="/assets/PythonWindows/spyder.PNG" width = "500" align = "center">
 <div class="thecap"> Giao diện Spyder trên Windows. <br></div>
 </div>
 
