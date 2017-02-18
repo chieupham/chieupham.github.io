@@ -19,6 +19,8 @@ Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi ha
 
 
 ## 3. Libs
+Để kiểm tra python đã có đường dẫn tới thư viện nào đó, chúng ta sẽ thử import nó.
 ```python
 import numpy
 ```
+Không có lỗi gì được thông báo nghĩa là python đã biết được thư viện này được chứa ở đâu.
