@@ -11,9 +11,14 @@ Trong bài này, tôi sẽ giúp các bạn làm quen với Python trên Windows
 Tôi chỉ sử dụng Ubuntu cho việc lập trình nên bài này sẽ có rất nhiều hạn chế.
 
 ## 1. Cài đặt Python.
-Cách đơn giản nhất là tải về WinPython [tại đây](https://winpython.github.io/) và xả nén vào thư mục bạn muốn. WinPython chứa rất nhiều môi trường giúp cho phép lập trình Python.
+Để tải về Python và một số IDE, một cách đơn giản nhất là tải về WinPython [tại đây](https://winpython.github.io/) và xả nén vào thư mục bạn muốn. WinPython chứa rất nhiều môi trường giúp cho phép lập trình Python.
 
 Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi hay sử dụng Spyder vì layout của nó khá giống với Matlab, chúng ta có thể kiểm soát được Script, Console và các biến. Console cho Python của Spyder có thể sử dụng Python hoặc IPython notebook. Cá nhân tôi thích Python Console hơn.
+
+<div class="imgcap">
+<img src ="/assets/PythonWindows/spyder.png" width = "500" align = "center">
+<div class="thecap"> Giao diện Spyder trên Windows. <br></div>
+</div>
 
 ## 2. Anaconda
 
