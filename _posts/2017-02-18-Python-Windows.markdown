@@ -46,7 +46,7 @@ Nếu như Python trả về lỗi Import như trên thì có nghĩa trong Anaco
 ##  3. Cài đặt Libs bằng Anaconda
 Ở phần trên python của tôi chưa có thư viện *sklearn*, nên tôi phải đi cài đặt nó. Vì tôi sử dụng Anaconda cho lập trình python nên tôi cần phải *cài đặt thư viện mới vào đường dẫn libs python của Anaconda* hoặc *chỉ cho python biết về đường dẫn tới thư viện mới này*.
 
-Với Anaconda, việc cài đặt 1 thư viện đang được hỗ trợ cực kỳ đơn giản, tôi chỉ cần dùng tools *pip* hoặc *conda* mà Anaconda đã cài sẵn. Cụ thể, ở đây tôi muốn cài thư viện tensorflow tôi truy cập vào trang chủ của [sklearn] (http://scikit-learn.org/stable/install.html). Trang này ghi rằng chúng ta có thể cài bằng *pip* hoặc *conda*
+Với Anaconda, việc cài đặt 1 thư viện đang được hỗ trợ cực kỳ đơn giản, tôi chỉ cần dùng tools *pip* hoặc *conda* mà Anaconda đã cài sẵn. Cụ thể, ở đây tôi muốn cài thư viện sklearn tôi truy cập vào trang chủ của [sklearn] (http://scikit-learn.org/stable/install.html). Trang này ghi rằng chúng ta có thể cài bằng *pip* hoặc *conda*.
 
 Chúng ta sẽ bật cmd (Command Prompt) của windows lên và gõ lệnh *conda install scikit-learn* hoặc *pip install -U scikit-learn*. Conda sẽ tự động tìm thư viện *sklearn* và cài vào đường dẫn Anaconda giúp chúng ta.
 
@@ -58,7 +58,7 @@ C:>conda install scikit-learn
 <div class="thecap"> Sử dụng conda qua cmd của windows. <br></div>
 </div>
 
-Chờ cho thư viện và các thư viện liên quan được cài đặt xong, chúng ta vào spyder kiểm tra lại đã có *sklearn* chưa. Và python trả về đã có sklearn trong Anaconda
+Chờ cho thư viện và các thư viện liên quan hoàn tất cài đặt, chúng ta vào spyder kiểm tra lại đã có *sklearn* chưa. Và python trả về đã có sklearn trong Anaconda. Và chúng ta đã có thể sử dụng sklearn.
 ```python
 >>> import sklearn
 >>> sklearn.__file__
