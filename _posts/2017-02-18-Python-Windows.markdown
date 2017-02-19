@@ -43,7 +43,7 @@ ImportError: No module named sklearn
 Nếu như Python trả về lỗi Import như trên thì có nghĩa trong Anaconda chúng ta chưa có thư viện đó.
 
 ##  3. Cài đặt Libs bằng Anaconda
-Ở phần trên python của tôi chưa có thư viện *sklearn*, nên tôi phải đi cài đặt nó. Vì tôi sử dụng Anaconda cho lập trình python nên tôi cần phải *cài đặt thư viện mới vào đường dẫn libs python của Anaconda* hoặc *chỉ cho python biết về đường dẫn tới thư viện mới này*.
+Ở phần trên python của tôi chưa có thư viện *sklearn*, nên tôi phải đi cài đặt nó. Vì tôi sử dụng Anaconda cho lập trình python nên tôi cần phải *(1) cài đặt thư viện mới vào đường dẫn libs python của Anaconda* hoặc *(2) chỉ cho python của Anaconda biết về đường dẫn tới thư viện mới này*.
 
 Với Anaconda, việc cài đặt 1 thư viện đang được hỗ trợ cực kỳ đơn giản, tôi chỉ cần dùng tools *pip* hoặc *conda* mà Anaconda đã cài sẵn. Cụ thể, ở đây tôi muốn cài thư viện sklearn tôi truy cập vào trang chủ của [sklearn] (http://scikit-learn.org/stable/install.html). Trang này ghi rằng chúng ta có thể cài bằng *pip* hoặc *conda*.
 
@@ -64,6 +64,8 @@ Chờ cho thư viện và các thư viện liên quan hoàn tất cài đặt, c
 'C:\\These\\soft\\Anaconda2\\lib\\site-packages\\sklearn\\__init__.pyc'
 >>> 
 ```
+
+Với 1 thư viện chưa có trên Anaconda, cách cài đặt sẽ phức tạp hơn chút nhưng hầu hết các thư viện lớn thường dùng đều có thể cài đặt thông qua Anaconda, nên chúng ta không phải lo lắng lắm. Để cài loại thư viện như vậy, tôi sẽ chỉ dẫn vào những bài sau.
 
 ## 4. Chạy thử 1 đoạn code trên python.
 
