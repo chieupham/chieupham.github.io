@@ -45,7 +45,7 @@ Nếu như Python trả về lỗi Import như trên thì có nghĩa trong Anaco
 ##  3. Cài đặt Libs bằng Anaconda
 Ở phần trên python của tôi chưa có thư viện *sklearn*, nên tôi phải đi cài đặt nó. Vì tôi sử dụng Anaconda cho lập trình python nên tôi cần phải *(1) cài đặt thư viện mới vào đường dẫn libs python của Anaconda* hoặc *(2) chỉ cho python của Anaconda biết về đường dẫn tới thư viện mới này*.
 
-Với Anaconda, việc cài đặt 1 thư viện đang được hỗ trợ cực kỳ đơn giản, tôi chỉ cần dùng tools *pip* hoặc *conda* mà Anaconda đã cài sẵn. Cụ thể, ở đây tôi muốn cài thư viện sklearn tôi truy cập vào trang chủ của [sklearn] (http://scikit-learn.org/stable/install.html). Trang này ghi rằng chúng ta có thể cài bằng *pip* hoặc *conda*.
+Với Anaconda, việc cài đặt 1 thư viện đang được hỗ trợ cực kỳ đơn giản, tôi chỉ cần dùng tools *pip* hoặc *conda* mà Anaconda đã cài sẵn. Cụ thể, ở đây tôi muốn cài thư viện sklearn tôi truy cập vào trang chủ của [sklearn](http://scikit-learn.org/stable/install.html). Trang này ghi rằng chúng ta có thể cài bằng *pip* hoặc *conda*.
 
 Chúng ta sẽ bật cmd (Command Prompt) của windows lên và gõ lệnh *conda install scikit-learn* hoặc *pip install -U scikit-learn*. Conda sẽ tự động tìm thư viện *sklearn* và cài vào đường dẫn Anaconda giúp chúng ta.
 
