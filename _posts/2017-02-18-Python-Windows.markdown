@@ -69,4 +69,4 @@ Chờ cho thư viện và các thư viện liên quan hoàn tất cài đặt, c
 
 Bây giờ, các bạn đã có thể chạy thử 1 vài ví dụ trên trang Machine Learning cơ bản, ví dụ như [Bài 3: Linear Regression](https://tiepvupsu.github.io/2016/12/28/linearregression/)
 
-
+P/S : Cám ơn Machine Learning cơ bản đã chia sẻ  [cách tạo blog](https://tiepvupsu.github.io/2017/02/02/howdoIcreatethisblog/)
