@@ -8,7 +8,6 @@ mathjax: false
 ---
 
 Trong bài này, tôi sẽ giúp các bạn làm quen với Python trên Windows theo cách đơn giản nhất. 
-Tôi chỉ sử dụng Ubuntu cho việc lập trình nên bài này sẽ có rất nhiều hạn chế.
 
 ## 1. Cài đặt Python bằng Anaconda.
 Để tải về Python và một số thư viện cần thiết, một cách đơn giản nhất là tải về [Anaconda cho windows](https://docs.continuum.io/anaconda/install#anaconda-for-windows-install/) và cài đặt vào thư mục bạn muốn. Anaconda hỗ trợ rất nhiều thư viện giúp lập trình Python. 
