@@ -67,6 +67,6 @@ Chờ cho thư viện và các thư viện liên quan hoàn tất cài đặt, c
 
 ## 4. Chạy thử 1 đoạn code trên python.
 
-Bây giờ, các bạn đã có thể chạy thử 1 vài ví dụ trên trang Machine Learning cơ bản, ví dụ như (Bài 3: Linear Regression)[https://tiepvupsu.github.io/2016/12/28/linearregression/]
+Bây giờ, các bạn đã có thể chạy thử 1 vài ví dụ trên trang Machine Learning cơ bản, ví dụ như [Bài 3: Linear Regression](https://tiepvupsu.github.io/2016/12/28/linearregression/)
 
 
