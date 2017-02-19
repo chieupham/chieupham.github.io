@@ -16,7 +16,7 @@ Tôi chỉ sử dụng Ubuntu cho việc lập trình nên bài này sẽ có r�
 Sau khi cài đặt xong, bạn vào thư mục Scripts trong thư mục Anaconda vừa cài đặt, và khởi động Spyder. Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi hay sử dụng Spyder vì layout của nó khá giống với Matlab, chúng ta có thể quan sát được Script, Console và các biến. Console cho Python của Spyder bao gồm Python hoặc IPython notebook. Cá nhân tôi thích Python Console hơn.
 
 <div class="imgcap">
-<img src ="/assets/PythonWindows/spyder.PNG" width = "500" align = "center">
+<img src ="/assets/PythonWindows/spyder.PNG" width = "700" align = "center">
 <div class="thecap"> Giao diện Spyder trên Windows. <br></div>
 </div>
 
@@ -53,8 +53,15 @@ Chúng ta sẽ bật cmd (Command Prompt) của windows lên và gõ lệnh *con
 ```python
 C:>conda install scikit-learn
 ```
-Chờ cho thư viện và các thư viện liên quan được cài đặt xong, chúng ta vào spyder kiểm tra lại đã có *sklearn* chưa
+<div class="imgcap">
+<img src ="/assets/PythonWindows/cmd_conda.png" width = "600" align = "center">
+<div class="thecap"> Sử dụng conda qua cmd của windows. <br></div>
+</div>
+
+Chờ cho thư viện và các thư viện liên quan được cài đặt xong, chúng ta vào spyder kiểm tra lại đã có *sklearn* chưa. Và python trả về đã có sklearn trong Anaconda
 ```python
 >>> import sklearn
 >>> sklearn.__file__
+'C:\\These\\soft\\Anaconda2\\lib\\site-packages\\sklearn\\__init__.pyc'
+>>> 
 ```
