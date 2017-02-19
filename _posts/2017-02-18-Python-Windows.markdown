@@ -12,7 +12,7 @@ Trong bài này, tôi sẽ giúp các bạn làm quen với Python trên Windows
 ## 1. Cài đặt Python bằng Anaconda.
 Để tải về Python và một số thư viện cần thiết, một cách đơn giản nhất là tải về [Anaconda cho windows](https://docs.continuum.io/anaconda/install#anaconda-for-windows-install/) và cài đặt vào thư mục bạn muốn. Anaconda hỗ trợ rất nhiều thư viện giúp lập trình Python. 
 
-Sau khi cài đặt xong, bạn vào thư mục Scripts trong thư mục Anaconda vừa cài đặt, và khởi động Spyder. Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi hay sử dụng Spyder vì layout của nó khá giống với Matlab, chúng ta có thể quan sát được Script, Console và các biến. Console cho Python của Spyder bao gồm Python hoặc IPython notebook. Cá nhân tôi thích Python Console hơn.
+Sau khi cài đặt xong, bạn vào thư mục Scripts trong thư mục Anaconda vừa cài đặt, và khởi động Spyder. Các bạn có thể sử dụng môi trường IDE nào cũng được. Tôi hay sử dụng Spyder vì layout của nó khá giống với Matlab, chúng ta có thể quan sát được Script, Console và các biến. Console cho Python của Spyder bao gồm Python hoặc IPython notebook.
 
 <div class="imgcap">
 <img src ="/assets/PythonWindows/spyder.PNG" width = "700" align = "center">
