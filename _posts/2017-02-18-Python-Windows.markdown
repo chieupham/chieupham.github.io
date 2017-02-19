@@ -27,7 +27,7 @@ Anaconda đã có sẵn khá là nhiều thư viện python như : [Numpy](http:
 ```python
 >>> import numpy
 ```
-Không có lỗi được thông báo nghĩa là python đã biết được thư viện này. Để kiểm tra thư viện này ở đâu, ta truy xuất *__file__* của thư viện như sau:
+Không có lỗi được thông báo nghĩa là python đã biết được thư viện này. Để kiểm tra thư viện này ở đâu, sau khi *import*, ta truy xuất đường dẫn của thư viện như sau:
 ```python
 >>> numpy.__file__
 'C:\\These\\soft\\Anaconda2\\lib\\site-packages\\numpy\\__init__.pyc'
