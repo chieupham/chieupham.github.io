@@ -7,16 +7,35 @@ date:   2018-07-09 13:00:00
 mathjax: false
 ---
 
-Access a machine in server and changing password
+Access a machine in server and changing password:
 
 ```python
 ssh name@ip
 pwd
 ```
 
-Download and install miniconda
+Download and install miniconda:
 
 ```python
 wget miniconda
 chmod +x Miniconda2-latest-Linux-x86_64.sh
 ```
+
+Install independencies:
+```python
+conda install -c anaconda cudatoolkit
+conda install -c anaconda cudnn 
+```
+
+Install Tensorflow and Keras
+```python
+pip install --upgrade tensorflow-gpu
+pip install keras
+```
+
+Install SimpleITK for loading NIFTI
+```python
+pip install SimpleITK
+```
+
+OK, that's all. Test some scripts.
