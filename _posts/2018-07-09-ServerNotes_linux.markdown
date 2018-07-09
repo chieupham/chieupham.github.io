@@ -7,6 +7,8 @@ date:   2018-07-09 13:00:00
 mathjax: false
 ---
 
+Python 2.7, GPU Titan Xp
+
 Access a machine in server and changing password:
 
 ```python
@@ -17,7 +19,7 @@ pwd
 Download and install miniconda:
 
 ```python
-wget miniconda
+wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
 chmod +x Miniconda2-latest-Linux-x86_64.sh
 ```
 
