@@ -40,5 +40,10 @@ Install SimpleITK for loading NIFTI
 ```python
 pip install SimpleITK
 ```
+Copy a file or a folder to server via ssh
+```python
+rsync -avz -e 'ssh' /home/mymachine/dev/test.py name@ip:/home/name/
+rsync -avz -e 'ssh' /home/mymachine/dev name@ip:/home/name/
+```
 
 OK, that's all. Test some scripts.
