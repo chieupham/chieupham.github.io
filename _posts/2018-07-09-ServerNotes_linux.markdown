@@ -46,4 +46,9 @@ rsync -avz -e 'ssh' /home/mymachine/dev/test.py name@ip:/home/name/
 rsync -avz -e 'ssh' /home/mymachine/dev name@ip:/home/name/
 ```
 
+Install some other platforms:
+```python
+pip install Lasagne==0.1
+```
+
 OK, that's all. Test some scripts.
