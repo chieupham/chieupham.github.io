@@ -13,7 +13,7 @@ Access a machine in server and changing password:
 
 ```python
 ssh name@ip
-pwd
+passwd
 ```
 
 Download and install miniconda:
@@ -48,7 +48,15 @@ rsync -avz -e 'ssh' /home/mymachine/dev name@ip:/home/name/
 
 Install some other platforms:
 ```python
-pip install Lasagne==0.1
+pip install -r https://raw.githubusercontent.com/Lasagne/Lasagne/v0.1/requirements.txt
+conda install theano=0.9 pygpu
+conda install mkl-service
+export MKL_THREADING_LAYER=GNU
+```
+
+Check my current path
+```python
+pwd
 ```
 
 OK, that's all. Test some scripts.
