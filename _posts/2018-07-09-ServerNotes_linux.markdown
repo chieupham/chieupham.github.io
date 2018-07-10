@@ -46,7 +46,7 @@ rsync -avz -e 'ssh' /home/mymachine/dev/test.py name@ip:/home/name/
 rsync -avz -e 'ssh' /home/mymachine/dev name@ip:/home/name/
 ```
 
-Install some other platforms:
+Install some other platforms (In progress, can not install nvcc):
 ```python
 pip install -r https://raw.githubusercontent.com/Lasagne/Lasagne/v0.1/requirements.txt
 conda install theano=0.9 pygpu
