@@ -54,6 +54,12 @@ conda install mkl-service
 export MKL_THREADING_LAYER=GNU
 ```
 
+Install Caffe
+```python
+conda install -c conda-forge cmake
+conda install -c anaconda protobuf
+```
+
 Check my current path
 ```python
 pwd
