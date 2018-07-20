@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Some of my thoughs after several job interviews"
 excerpt: ""
-date:   2018-07-09 13:00:00
+date:   2018-07-16 13:00:00
 mathjax: false
 ---
 
