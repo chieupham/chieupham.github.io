@@ -12,3 +12,4 @@ I really don't like the way which employers answer me that: "we have hundreds of
 At that moment, I just want to tell them that: "I know I know. You have got several choices but I'm human, I'm not an object that you could reduce the value." 
 Ok! Maybe some of you think that someone else may take this position if I don't want to. 
 Please! I'm a human. I just want to find a job with an enthusiastic working environment where I can do my best to add value.
+
