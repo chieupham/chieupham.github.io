@@ -22,6 +22,7 @@ Download and install miniconda:
 wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
 chmod +x Miniconda2-latest-Linux-x86_64.sh
 ./Miniconda2-latest-Linux-x86_64.sh
+export PATH="/homes/name/miniconda2/bin:$PATH"
 ```
 
 Install independencies:
