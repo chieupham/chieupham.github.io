@@ -7,7 +7,6 @@ date:   2018-07-16 13:00:00
 mathjax: false
 ---
 
- English
 I really don't like the way which employers answer me that: "we have hundreds of candidates... ". 
 At that moment, I just want to tell them that: "I know I know. You have got several choices but I'm human, I'm not an object that you could reduce the value." 
 Ok! Maybe some of you think that someone else may take this position if I don't want to. 
