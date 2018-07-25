@@ -12,5 +12,3 @@ Installing OpenCV
 ```python
 pip install opencv-contrib-python
 ```
-
-https://www.1stvision.com/machine-vision-solutions/2018/03/machine-vision-industrial-camera.html
