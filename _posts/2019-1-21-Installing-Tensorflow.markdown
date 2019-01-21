@@ -12,8 +12,13 @@ Python 3, GPU GTX
 Download and install miniconda:
 
 ```python
-wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
-chmod +x Miniconda2-latest-Linux-x86_64.sh
-./Miniconda2-latest-Linux-x86_64.sh
-export PATH="/homes/name/miniconda2/bin:$PATH"
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+export PATH="/home/chpham/miniconda3/bin:$PATH"
+```
+
+Install independencies:
+```python
+conda conda install tensorflow-gpu==1.8
 ```
