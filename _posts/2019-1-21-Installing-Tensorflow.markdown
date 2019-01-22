@@ -23,9 +23,9 @@ Install tensorflow:
 conda install tensorflow-gpu==1.8
 ```
 
-22/01/2019, Installing Theano in order to test http://bethgelab.org/media/uploads/dynamic_textures/
+22/01/2019, Installing Theano in order to test http://bethgelab.org/media/uploads/dynamic_textures/ (FAIL: Old versions of Theano and Lasagne)
 ```python
-conda install theano
+pip install theano==0.7
 pip install Lasagne==0.1
 pip install scikit-image
 pip install scikit-learn
