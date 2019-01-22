@@ -18,7 +18,15 @@ chmod +x Miniconda3-latest-Linux-x86_64.sh
 export PATH="/home/chpham/miniconda3/bin:$PATH"
 ```
 
-Install independencies:
+Install tensorflow:
 ```python
-conda conda install tensorflow-gpu==1.8
+conda install tensorflow-gpu==1.8
+```
+
+22/01/2019, Installing Theano in order to test http://bethgelab.org/media/uploads/dynamic_textures/
+```python
+conda install theano
+pip install Lasagne==0.1
+pip install scikit-image
+pip install scikit-learn
 ```
